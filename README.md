@@ -21,7 +21,7 @@ This project is an **HR Analysis Dashboard** built using **Power BI**. It provid
 - 'hr-data.xlsx' – Sample dataset used in the analysis  
  
 ## 📸 Dashboard Preview  
-![HR Dashboard Screenshot](HRScreenshot)  
+![HR Dashboard Screenshot](HRScreenshot.png)  
 
 
 ## 📬 Feedback & Contributions  
