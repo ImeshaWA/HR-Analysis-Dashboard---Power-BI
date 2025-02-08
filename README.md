@@ -1,5 +1,5 @@
 # HR Analysis Dashboard – Power BI  
-## 📌 Overview -
+
 This project is an **HR Analysis Dashboard** built using **Power BI**. It provides HR professionals with insights into employee data, helping them make data-driven decisions.  
 
 Key Features :
@@ -19,11 +19,8 @@ Files Included :
 - 'HR dashboard.pbix' – Power BI dashboard file  
 - 'hr-data.xlsx' – Sample dataset used in the analysis  
  
-## 📸 Dashboard Preview  
 ![HR Dashboard Screenshot](HRScreenshot.png)  
 
-
-Feedback & Contributions  
 Have suggestions or feedback? Feel free to open an issue or connect with me on LinkedIn!  
 
 ## 🔗 Connect with Me  
