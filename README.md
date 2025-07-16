@@ -1,6 +1,6 @@
 # HR Analysis Dashboard – Power BI  
 
-This project is an **HR Analysis Dashboard** built using **Power BI**. It provides HR professionals with insights into employee data, helping them make data-driven decisions.  
+This project is an HR Analysis Dashboard built using Power BI. It provides HR professionals with insights into employee data, helping them make data-driven decisions.  
 
 Key Features :
 - **Data Cleaning & Transformation**: Used Power Query to clean and prepare HR data.  
@@ -11,19 +11,12 @@ Key Features :
 - **Customized Visuals**: Adjusted colors, axes, labels, and legends for better readability.  
 
 Technologies Used :
-- **Power BI**  
-- **Power Query**  
-- **DAX (Data Analysis Expressions)**  
+- Power BI  
+- Power Query  
+- DAX (Data Analysis Expressions)  
 
 Files Included : 
 - 'HR dashboard.pbix' – Power BI dashboard file  
 - 'hr-data.xlsx' – Sample dataset used in the analysis  
  
 ![HR Dashboard Screenshot](HRScreenshot.png)  
-
-Have suggestions or feedback? Feel free to open an issue or connect with me on LinkedIn!  
-
-## 🔗 Connect with Me  
-[LinkedIn Profile](www.linkedin.com/in/imesha-kularathna-b505562b9)  
-
-
